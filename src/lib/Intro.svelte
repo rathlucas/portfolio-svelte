@@ -1,4 +1,4 @@
-<section class="mb-8 pt-36 px-20 lg:pt-20 lg:px-36">
+<section class="mb-8">
   <div class="flex flex-col justify-center items-center">
     <h1
       class="text-4xl text-center text-blue-800 text-opacity-90 font-bold uppercase tracking-wider select-none"
