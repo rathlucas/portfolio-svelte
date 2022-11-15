@@ -3,7 +3,7 @@
   import Intro from './Intro.svelte'
 </script>
 
-<div class="px-10 lg:pt-20 lg:px-36">
+<div class="px-10 pt-36 lg:pt-20 lg:px-36">
   <Intro />
   <Tech />
 </div>
