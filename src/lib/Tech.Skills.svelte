@@ -28,6 +28,19 @@
     </li>
     <li class="mb-2">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+        width="40"
+        height="40"
+        alt="Svelte icon"
+        class="inline-flex"
+      />
+      Svelte
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(255,62,0)] text-white w-[60%]">60%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="40"
         height="40"
@@ -75,7 +88,7 @@
       />
       AdonisJS
       <div class="bg-gray-400 w-full text-center">
-        <p class="bg-[rgb(90,69,255)] text-white w-[85%]">85%</p>
+        <p class="bg-[rgb(90,69,255)] text-white w-[80%]">80%</p>
       </div>
     </li>
     <li class="mb-2">
@@ -88,7 +101,7 @@
       />
       HTML Semântico
       <div class="bg-gray-400 w-full text-center">
-        <p class="bg-[rgb(241,101,41)] text-white w-[100%]">100%</p>
+        <p class="bg-[rgb(241,101,41)] text-white w-[90%]">90%</p>
       </div>
     </li>
     <li class="mb-2">
@@ -101,7 +114,20 @@
       />
       CSS
       <div class="bg-gray-400 w-full text-center">
-        <p class="bg-[rgb(51,169,220)] text-white w-[90%]">90%</p>
+        <p class="bg-[rgb(51,169,220)] text-white w-[85%]">85%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="40"
+        height="40"
+        alt="SASS icon"
+        class="inline-flex"
+      />
+      SASS
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(203,102,153)] text-white w-[65%]">65%</p>
       </div>
     </li>
     <li class="mb-2">
@@ -115,6 +141,72 @@
       TailwindCSS
       <div class="bg-gray-400 w-full text-center">
         <p class="bg-[rgb(56,178,172)] text-white w-[80%]">80%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+        width="40"
+        height="40"
+        alt="Docker icon"
+        class="inline-flex"
+      />
+      Docker
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(1,155,198)] text-white w-[70%]">70%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+        width="40"
+        height="40"
+        alt="Firebase icon"
+        class="inline-flex"
+      />
+      Firebase
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(245,130,32)] text-white w-[70%]">70%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="40"
+        height="40"
+        alt="GIT icon"
+        class="inline-flex"
+      />
+
+      GIT
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(243,79,41)] text-white w-[90%]">90%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        width="40"
+        height="40"
+        alt="MySQL icon"
+        class="inline-flex"
+      />
+      MySQL
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(0,97,138)] text-white w-[75%]">75%</p>
+      </div>
+    </li>
+    <li class="mb-2">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+        width="40"
+        height="40"
+        alt="PostgreSQL icon"
+        class="inline-flex"
+      />
+      PostgreSQL
+      <div class="bg-gray-400 w-full text-center">
+        <p class="bg-[rgb(51,103,145)] text-white w-[75%]">75%</p>
       </div>
     </li>
   </ul>
